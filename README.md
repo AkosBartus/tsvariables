@@ -5,5 +5,10 @@
 - npm
 
 ## Setup
-- npm i (installs dependencies)
-- npm run build 
+
+'''bash
+npm i
+# installs dependencies
+
+'''bash
+npm run build (creates .js files from .ts files)
